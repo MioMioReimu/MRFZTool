@@ -1,9 +1,9 @@
 ## 安装环境
-pip install pywin32
-pip install psutil
-pip install pillow
-pip install pytesseract
-pip install opencv-python
+pip install pywin32    
+pip install psutil    
+pip install pillow    
+pip install pytesseract    
+pip install opencv-python    
 
 从 https://github.com/UB-Mannheim/tesseract/wiki 下载最新的tesseract
 安装后，设置Path变量，把tesseract的文件夹加到Path环境里
